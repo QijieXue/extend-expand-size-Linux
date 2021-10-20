@@ -1,6 +1,6 @@
 # 扩展Linux逻辑磁盘大小
 
-Error:
+Error:  
 ![](media/lv-full.png)
 
 ### 术语
